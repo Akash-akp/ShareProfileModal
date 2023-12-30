@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.activateOverlay{
+    @apply opacity-100 pointer-events-auto
+}
+
+.activateModal1{
+    @apply scale-100
+}
+
+.activateModal2{
+    @apply scale-100
+}
